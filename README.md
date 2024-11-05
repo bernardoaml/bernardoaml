@@ -1,6 +1,6 @@
 # Olá, eu sou o Bernardo Andrade! 👋
 
-## Sobre mim,
+## Sobre mim, 
 
 Eu sou um desenvolvedor web fullstack recém-formado, apaixonado por tecnologia e desenvolvimento de software. Adoro aprender novas tecnologias e criar projetos inovadores.
 

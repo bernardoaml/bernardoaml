@@ -2,7 +2,7 @@
 
 ## Sobre mim, 
 
-Eu sou um desenvolvedor web fullstack recém-formado, apaixonado por tecnologia e desenvolvimento de software. Adoro aprender novas tecnologias e criar projetos inovadores.
+Eu sou um desenvolvedor web fullstack, apaixonado por tecnologia e desenvolvimento de software. Adoro aprender novas tecnologias e criar projetos inovadores.
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais e contribuindo para projetos open-source.
 - 🌱 Estou aprendendo mais sobre DevOps e Cloud Computing.

@@ -20,11 +20,6 @@ Eu sou um desenvolvedor web fullstack, apaixonado por tecnologia e desenvolvimen
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardoaml&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-</p>
 
 ## 📂 Projetos Recentes
 

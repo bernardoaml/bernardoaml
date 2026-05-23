@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/bernardoaml">
+    <img src="https://komarev.com/ghpvc/?username=bernardoaml&color=blue" />
+  </a>
+</p>
+
+
 # Olá, eu sou Bernardo Andrade 👋
 
 ## 💻 Desenvolvedor Full Stack
@@ -97,15 +104,6 @@ API REST para gerenciamento de locadora de filmes.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardoaml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoaml&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌎 Contato
 

@@ -23,13 +23,13 @@ Eu sou um desenvolvedor web fullstack com 3 anos de experiência , apaixonado po
 
 ## 📂 Projetos Recentes
 
-- [**Projeto 1**](https://github.com/bernardoaml/users_and_courses): Uma API que faz o controle de usuários e cursos em que esses usuários serão matriculados.
+- [**Projeto 1**](https://github.com/bernardoaml/teste-betalent-frontend): Um teste técnico solicitado pela empresa BeTalent, focado em FrontEnd. 'Uma aplicação web moderna para visualização e gerenciamento de funcionários, desenvolvida com React e TypeScript.'
 - [**Projeto 2**](https://github.com/bernardoaml/locadoraDeFilmes_typeorm): Uma API de um serviço de locação de filmes. ( TS, TypeORM, zod)
-- [**Projeto 3**](https://github.com/bernardoaml/mercado_autonomo): Uma API REST para controle de estoque de produtos em um mercado autonomo. Estudo sobre middlewares.
+- [**Projeto 3**](https://github.com/bernardoaml/projeto-teste-wpp): Um teste técnico solicitado. O projeto é uma aplicação disparadora de mensagens por whatsapp com fluxos automáticos.
 
 ## Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bernardo-andrade-839877251/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bernardoaml/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/bernardoandrade42/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
